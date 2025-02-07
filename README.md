@@ -1,4 +1,4 @@
-<h1>Hi, I'm Andrew, an <a href="https://linkedin.com/in/andrewmorelnj">IT Support Specialist</a>☺</h1>
+<h1>Hi, I'm Andrew, an <a href="https://linkedin.com/in/andrewmorelnj">IT Support Specialist
 
 <h2> Information Technology Projects:</h2>
 
