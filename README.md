@@ -1,4 +1,4 @@
-<h1>Hi, I'm Drew, an <a href="https://linkedin.com/in/amorel47">IT Suppport Specialist</a>☺</h1>
+<h1>Hi, I'm Drew, an <a href="https://linkedin.com/in/amorel47">IT Support Specialist</a>☺</h1>
 
 <h2> Information Technology Projects:</h2>
 
