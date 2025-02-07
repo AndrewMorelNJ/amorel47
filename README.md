@@ -2,7 +2,7 @@
 
 <h2> Information Technology Projects:</h2>
 
-- <bosTicket (Help Desk Ticketing System)</b>
+- <osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Post-Installation Configuration](https://github.com/amorel47/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/amorel47/ticket-lifecycle)
 - <b>Microsoft Azure</b>
